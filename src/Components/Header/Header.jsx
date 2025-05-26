@@ -1,14 +1,16 @@
 import { BsCoin } from "react-icons/bs";
 
 const Header = () => {
+
+
   return (
-    <div class="navbar bg-base-100 shadow-sm">
-      <div class="navbar-start">
-        <div class="dropdown">
-          <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+    <div className="navbar bg-base-100 shadow-sm">
+      <div className="navbar-start">
+        <div className="dropdown">
+          <div tabindex="0" role="button" className="btn btn-ghost lg:hidden">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="h-5 w-5"
+              className="h-5 w-5"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -25,8 +27,8 @@ const Header = () => {
         </div>
         <img src="/src/assets/logo.png" alt="" />
       </div>
-      <div class="navbar-center hidden lg:flex">
-        <ul class="menu menu-horizontal px-1">
+      <div className="navbar-center hidden lg:flex">
+        <ul className="menu menu-horizontal px-1 text-xl text-gray-700 font-semibold">
           <li>
             <a>Home</a>
           </li>
@@ -41,8 +43,8 @@ const Header = () => {
           </li>
         </ul>
       </div>
-      <div class="navbar-end">
-        <a class="btn">Coin <BsCoin></BsCoin></a>
+      <div className="navbar-end">
+        <a className="btn">Coin <BsCoin></BsCoin></a>
       </div>
     </div>
   );
