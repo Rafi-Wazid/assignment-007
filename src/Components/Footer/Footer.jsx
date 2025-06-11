@@ -1,23 +1,23 @@
 const Footer = () => {
   return (
-    <div className="footer flex flex-col items-center p-10 bg-gray-800 text-white">
-      <div className="w-3/4 bg-gradient-to-r from-blue-100 via-pink-100 to-yellow-100 p-8 rounded-xl shadow-lg max-w-4xl mx-auto my-8 flex flex-col items-center text-center">
-       <div className="text-black">
-        <h2 className="text-2xl md:text-3xl font-bold mb-2">Subscribe to our Newsletter</h2>
-        <p className="text-gray-600 mb-6">Get the latest updates and news right in your inbox!</p>
-        <div className="flex justify-center items-center gap-4 flex-col sm:flex-row">
-          <input
-            type="email"
-            placeholder="Enter your email"
-            className="input input-bordered w-full max-w-xs bg-white"
-          />
-          <button className="btn bg-gradient-to-r from-pink-500 to-yellow-500 text-white border-none">
-            Subscribe
-          </button>
+    <div className="footer flex flex-col items-center p-10 bg-gray-800 text-white relative z-0">
+      <div className="w-3/4 bg-gradient-to-r from-blue-100 via-pink-100 to-yellow-100 p-8 rounded-xl shadow-lg max-w-4xl mx-auto my-[-9rem] z-20 flex flex-col items-center text-center border-10 border-gray-400 border-double backdrop-blur-md">
+        <div className="text-black">
+          <h2 className="text-2xl md:text-3xl font-bold mb-2">Subscribe to our Newsletter</h2>
+          <p className="text-gray-600 mb-6">Get the latest updates and news right in your inbox!</p>
+          <div className="flex justify-center items-center gap-4 flex-col sm:flex-row">
+            <input
+              type="email"
+              placeholder="Enter your email"
+              className="input input-bordered w-full max-w-xs bg-white text-black"
+            />
+            <button className="btn bg-gradient-to-r from-pink-500 to-yellow-500 text-white border-none">
+              Subscribe
+            </button>
+          </div>
         </div>
       </div>
-      </div>
-      <div className="text-center mb-8">
+      <div className="text-center mb-8 mt-34">
         <img
           src="/src/assets/logo-footer.png"
           alt="Cricket Logo"
@@ -62,13 +62,13 @@ const Footer = () => {
           <p className="text-gray-300 mb-4">
             Subscribe to our newsletter for the latest updates.
           </p>
-          <div className="flex items-center gap-2">
+          <div className="flex gap-2">
             <input
-              type="text"
+              type="email"
               placeholder="Enter your email"
-              className="input input-bordered w-64 bg-white"
+              className="input input-bordered w-full max-w-xs bg-white text-black"
             />
-            <button className="btn bg-gradient-to-r from-orange-500 to-yellow-500 text-white">
+            <button className="btn bg-gradient-to-r from-pink-500 to-yellow-500 text-white border-none">
               Subscribe
             </button>
           </div>

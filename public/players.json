@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382401.4.jpg",
+    "cover_img": "https://i.ibb.co/gbfWjtVD/virat-kohli.webp",
     "player_icon": "https://example.com/images/players/icon/virat_kohli.png",
     "name": "Virat Kohli",
     "country": {
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382459.4.jpg",
+    "cover_img": "https://i.ibb.co/LXH5fVD1/Steve-Smith.jpg",
     "player_icon": "https://example.com/images/players/icon/steve_smith.png",
     "name": "Steve Smith",
     "country": {
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382410.4.jpg",
+    "cover_img": "https://i.ibb.co/rK97rQtb/Ravindra-Jadeja.webp",
     "player_icon": "https://example.com/images/players/icon/ravindra_jadeja.png",
     "name": "Ravindra Jadeja",
     "country": {
@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382447.4.jpg",
+    "cover_img": "https://i.ibb.co/BK3wKpRN/Josh-Hazlewood.jpg",
     "player_icon": "https://example.com/images/players/icon/josh_hazlewood.png",
     "name": "Josh Hazlewood",
     "country": {
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382408.4.jpg",
+    "cover_img": "https://i.ibb.co/jvkmB2My/rohit-sharma-t0-1719848335.jpg",
     "player_icon": "https://example.com/images/players/icon/rohit_sharma.png",
     "name": "Rohit Sharma",
     "country": {
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "cover_img": "https://media.gettyimages.com/id/1432800139/photo/jason-holder-of-west-indies-looks-on-during-the-1st-test-match-between-australia-v-west-indies.jpg?s=1024x1024&w=gi&k=20&c=0v5TjL2H-HoA3z1gqW4s4eD6o3E8p6pG0M2m6fOzv-U=",
+    "cover_img": "https://i.ibb.co/v4CHPZM3/jason-holder-759-1.jpg",
     "player_icon": "https://example.com/images/players/icon/jason_holder.png",
     "name": "Jason Holder",
     "country": {
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382480.4.jpg",
+    "cover_img": "https://i.ibb.co/sdcy1LYv/Shaheen-Afridi.jpg",
     "player_icon": "https://example.com/images/players/icon/shaheen_afridi.png",
     "name": "Shaheen Afridi",
     "country": {
@@ -99,7 +99,7 @@
   },
   {
     "id": 8,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382463.4.jpg",
+    "cover_img": "https://i.ibb.co/s8Q7yjP/Quinton-de-Kock.jpg",
     "player_icon": "https://example.com/images/players/icon/quinton_de_kock.png",
     "name": "Quinton de Kock",
     "country": {
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382479.4.jpg",
+    "cover_img": "https://i.ibb.co/j9mzt47x/mohammad-rizwan.jpg",
     "player_icon": "https://example.com/images/players/icon/mohammad_rizwan.png",
     "name": "Mohammad Rizwan",
     "country": {
@@ -127,7 +127,7 @@
   },
   {
     "id": 10,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382468.4.jpg",
+    "cover_img": "https://i.ibb.co/d0dmhqXH/Trent-Boult.jpg",
     "player_icon": "https://example.com/images/players/icon/trent_boult.png",
     "name": "Trent Boult",
     "country": {
@@ -141,7 +141,7 @@
   },
   {
     "id": 11,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382467.4.jpg",
+    "cover_img": "https://i.ibb.co/ymq5FQtz/rachin-ravindra-new-zealand-6358837.jpg",
     "player_icon": "https://example.com/images/players/icon/rachin_ravindra.png",
     "name": "Rachin Ravindra",
     "country": {
@@ -155,7 +155,7 @@
   },
   {
     "id": 12,
-    "cover_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_70/lsci/db/PICTURES/CMS/382400/382451.4.jpg",
+    "cover_img": "https://i.ibb.co/TxXNdGk0/Jofra-Archer.jpg",
     "player_icon": "https://example.com/images/players/icon/jofra_archer.png",
     "name": "Jofra Archer",
     "country": {

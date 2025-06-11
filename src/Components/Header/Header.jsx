@@ -1,7 +1,8 @@
 import { BsCoin } from "react-icons/bs";
 
-const Header = () => {
+const Header = ({currentBalance}) => {
 
+ 
 
   return (
     <div className="navbar bg-base-100 shadow-sm">
@@ -24,6 +25,14 @@ const Header = () => {
               />{" "}
             </svg>
           </div>
+          <ul
+        tabindex="0"
+        class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+        <li><a>Home</a></li>
+        <li><a>Fixture</a></li>
+        <li><a>Team</a></li>
+        <li><a>Schedules</a></li>
+      </ul>
         </div>
         <img src="/src/assets/logo.png" alt="" />
       </div>
@@ -44,7 +53,7 @@ const Header = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Coin <BsCoin></BsCoin></a>
+        <a className="btn">Coin {currentBalance} <BsCoin></BsCoin></a>
       </div>
     </div>
   );
